@@ -15,7 +15,7 @@ Dissertation Committee: Professors Mark Bradshaw (chair), Lian Fen Lee, and Miao
 
 Presented at Boise State University, Texas Christian University, Indiana University, Boston College, the 2023 AAA Annual Meeting, 2022 BYU Accounting Research Symposium, and the AAA/Deloitte Foundation/J Michael Cook 2022 Doctoral Consortium
 
-Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978
+Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978)
 
 <!-- *Available upon request* -->
 <!--
@@ -33,7 +33,7 @@ Presented at 2024 AAA Annual Meeting* and 2024 FARS Midyear Meeting
 
 * Represents presentations by a coauthor
 
-Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955634
+Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955634)
 
 ### *"The Whisper Before the Shout: Market Consequences of Implied versus Actual Recommendations Revisions"* with Mark Bradshaw, Chad Hamm, and Mark Piorkowski
 
@@ -45,7 +45,7 @@ Presented at The Ohio State University*, the University of South Florida*, Rice 
 
 * Represents presentations by a coauthor
 
-Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5166926
+Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5166926)
 
 ### *"The Effect of Analyst Research on Managers’ Merger and Acquisition Decisions: Revising Shareholder Opinions"* with Farzana Afrin and Jalal Sani
 
