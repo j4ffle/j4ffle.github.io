@@ -4,6 +4,7 @@ title: "Code & Data"
 permalink: /code_data/
 author_profile: true
 ---
+### *Interactions with unfavorable analysts during earnings calls as described and used in ["To Interact Or Not? On the Benefits of Interacting with Unfavorable Analysts During Earnings Calls"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978)*
 
 ### *Capital IQ Transcripts - IBES Analyst Linking Table*
 
