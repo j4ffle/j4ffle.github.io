@@ -6,6 +6,8 @@ author_profile: true
 ---
 ### *Interactions with unfavorable analysts during earnings calls as described and used in ["To Interact Or Not? On the Benefits of Interacting with Unfavorable Analysts During Earnings Calls"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978)*
 
+<a href="https://www.dropbox.com/scl/fi/10zn48d61t835vb49kgt3/CC_Unfav_Engagement.csv?rlkey=5v950rm1bpusfty2suyc32ezt&dl=0" target="_blank">CC_Unfav_Engagement.csv</a>
+
 ### *Capital IQ Transcripts - IBES Analyst Linking Table*
 
 This is an effort to link analysts and brokerages from I/B/E/S and Capital IQ transcripts (with [Mark Piorkowski](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MPIORKOW))
