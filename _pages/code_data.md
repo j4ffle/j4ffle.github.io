@@ -4,7 +4,7 @@ title: "Code & Data"
 permalink: /code_data/
 author_profile: true
 ---
-### *Interactions with unfavorable analysts during earnings calls as described and used in ["To Interact Or Not? On the Benefits of Interacting with Unfavorable Analysts During Earnings Calls"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978)*
+### Interactions with unfavorable analysts during earnings calls as described and used in *["To Interact Or Not? On the Benefits of Interacting with Unfavorable Analysts During Earnings Calls"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978)*
 
 <a href="https://www.dropbox.com/scl/fi/10zn48d61t835vb49kgt3/CC_Unfav_Engagement.csv?rlkey=5v950rm1bpusfty2suyc32ezt&dl=0" target="_blank">CC_Unfav_Engagement.csv</a>
 
