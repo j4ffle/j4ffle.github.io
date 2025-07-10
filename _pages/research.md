@@ -15,7 +15,7 @@ Dissertation Committee: Professors Mark Bradshaw (chair), Lian Fen Lee, and Miao
 
 Presented at Boise State University, Texas Christian University, Indiana University, Boston College, the 2023 AAA Annual Meeting, 2022 BYU Accounting Research Symposium, and the AAA/Deloitte Foundation/J Michael Cook 2022 Doctoral Consortium
 
-Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978)
+Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978) and [JAR]{https://onlinelibrary.wiley.com/doi/full/10.1111/1475-679X.12629}
 
 <!-- *Available upon request* -->
 <!--
