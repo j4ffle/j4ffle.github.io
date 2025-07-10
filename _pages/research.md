@@ -37,7 +37,7 @@ Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955634
 
 ### *"The Whisper Before the Shout: Market Consequences of Implied versus Actual Recommendations Revisions"* with Mark Bradshaw, Chad Hamm, and Mark Piorkowski
 
-Under Review at *The Accounting Review*
+*Revise and Resubmit* at the *The Accounting Review*
 
 Over 90% of analysts' research reports include reiterated buy/sell recommendations, but academic research focuses on the infrequent recommendation revisions. We predict that analysts signal a change in sentiment without actually revising their outstanding recommendation. We identify these "implied recommendation revisions" and confirm they predict subsequent actual recommendation revisions. Implied upgrades (downgrades) are positively (negatively) associated with returns at the report date, and price reactions to actual recommendation revisions are attenuated when preempted by an implied recommendation revision. Trading around implied recommendation revisions is concentrated among sophisticated investors who have greater access to analysts and their reports, whereas retail investors tend to trade around actual recommendation revisions. Overall, our evidence provides insight into how sophisticated investors use information in analysts' reiteration reports and anticipate changes in analysts' recommendations before those revisions take place.
 
