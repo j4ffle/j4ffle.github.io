@@ -96,8 +96,8 @@ author:
   avatar           : "jared.jpg" 
   bio              : "Assistant Professor in Accounting @ Boise State University"
   location         : "Boise, ID"
-  employer         :
-  university       : "Boise State University"
+  employer         : "Boise State University"
+  university       : 
   pubmed           : #""
   googlescholar    : #""
   email            : "jaredflake@boisestate.edu"
@@ -128,7 +128,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  school           : "https://www.boisestate.edu/cobe-accountancy/department-of-accountancy/directory/"
+  school           : #"https://www.boisestate.edu/cobe-accountancy/department-of-accountancy/directory/"
 
 
 # Reading Files
