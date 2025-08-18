@@ -95,11 +95,11 @@ author:
   name             : "Jared Flake"
   avatar           : "jared.jpg" 
   bio              : "Assistant Professor in Accounting @ Boise State University"
-  location         : "Boise, ID"
+  location         : #"Boise, ID"
   employer         : "Boise State University"
-  university       : 
+  university       : "Boston College"
   pubmed           : #""
-  googlescholar    : #""
+  googlescholar    : "https://scholar.google.com/citations?user=lJ2N3SAAAAAJ&hl=en"
   email            : "jaredflake@boisestate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,7 +115,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "jaredflake"
+  linkedin         :  "jaredflake"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

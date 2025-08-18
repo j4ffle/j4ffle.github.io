@@ -57,6 +57,11 @@ Presented at the 2024 BYU Accounting research Symposium, 5th Analyst Research co
 
 Paper available upon request
 
+### *"Seeing is Believing: Data Visualizations and the Quality of Analyst Forecasts"* with Nargess Golshan, Ken Merkly, and Mark Piorkowski
+
+We examine whether the use of data visualization is associated with the quality of forecasts in investment reports. To address this question, we focus on a large sample of sell-side analyst reports. This setting provides detailed data on report content and allows for relatively straightforward measurement of two important aspects of forecast quality: accuracy and credibility. First, we find a positive association between data visualization use and analyst earnings forecast accuracy. This result is stronger when analysts cover firms in which it is likely that cognitive demands are higher and/or the benefits of visual support are amplified (i.e., firms with greater volatility, extreme sales growth, or those that are smaller and younger). Second, we find evidence consistent with visualizations enhancing the perceived credibility of analyst forecasts as the market response to earnings forecast revisions is stronger when the accompanying reports contain more data visualizations. We further find that this result is more pronounced for firms with higher uncertainty (as measured by return and EPS volatility). Taken together, our findings suggest that visualizations are not merely stylistic choices or persuasive devices; rather they are integral to the decision-making and communication process.
+
+Presented at Indiana University.
 
 <!-- [View in Browser](https://drive.google.com/file/d/1FP1Nj2xefm-u8ycFux1_6bbDXm2ay3Du/view?usp=sharing) -->
 
