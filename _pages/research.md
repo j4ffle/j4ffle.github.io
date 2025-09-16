@@ -7,7 +7,8 @@ author_profile: true
 
 ### *"To Interact or Not? On the Benefits of Interacting with Unfavorable Analysts during Earnings Calls"*
 
-*Journal of Accounting Research*, Forthcoming
+*Journal of Accounting Research*
+Featured in Forbes: [Should Executives Interact With Critical Analysts During Earnings Calls?](https://www.forbes.com/sites/josephbrazel/2025/09/15/should-executives-interact-with-critical-analysts-during-earnings-calls/)
 
 Managers prioritize favorable analysts during earnings calls, reinforcing analysts' incentives for optimism. However, managers also frequently interact with unfavorable analysts, and this study examines the determinants and benefits of these interactions. I find that managers interact more with unfavorable analysts when compelled to do so. I then examine two likely benefits of these interactions. First, unfavorable analysts attenuate their negative views after interacting with managers. Second, price reactions to management forecasts are stronger for managers who regularly interact with unfavorable analysts, consistent with enhanced reporting credibility. Finally, using peer firm restatements as exogenous shocks to investors' perceptions of accounting quality, I find that nonrestating firms with managers who regularly interact with unfavorable analysts experience attenuated negative returns relative to other nonrestating peers. Overall, the empirical evidence indicates firms experience significant benefits when managers interact with unfavorable analysts and these benefits persist amongst compelled and voluntary interactions.
 
