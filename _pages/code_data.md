@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Interactions with unfavorable analysts during earnings calls as described and used in *["To Interact Or Not? On the Benefits of Interacting with Unfavorable Analysts During Earnings Calls"](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-679X.12629)*
 
-<a href="https://forms.gle/Ccq6KwyRKUwKLwue6" target="_blank">Request Access to Data</a>
+<a href="https://forms.gle/Ccq6KwyRKUwKLwue6" target="_blank">Download Data</a>
 
 ### *Capital IQ Transcripts - IBES Analyst Linking Table*
 
