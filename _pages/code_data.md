@@ -4,9 +4,9 @@ title: "Code & Data"
 permalink: /code_data/
 author_profile: true
 ---
-### Interactions with unfavorable analysts during earnings calls as described and used in *["To Interact Or Not? On the Benefits of Interacting with Unfavorable Analysts During Earnings Calls"](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-679X.12629)*
+### Data on managers' interactions with unfavorable analysts during earnings calls as described and used in [Flake (2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-679X.12629)*
 
-<a href="https://forms.gle/Ccq6KwyRKUwKLwue6" target="_blank">Download Data</a>
+        <a href="https://forms.gle/Ccq6KwyRKUwKLwue6" target="_blank">Download Data</a>
 
 ### *Capital IQ Transcripts - IBES Analyst Linking Table*
 
@@ -18,7 +18,7 @@ This is an effort to link analysts and brokerages from I/B/E/S and Capital IQ tr
 
 ### References
 
-I have found the fowllowing resources from others useful in my research. In case they might be helpful for you, I reference them below:
+I have found the following resources from others useful in my research. In case they might be helpful for you, I reference them below:
 
 #### *NLP*
 
