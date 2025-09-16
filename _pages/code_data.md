@@ -6,14 +6,14 @@ author_profile: true
 ---
 ### Data on managers' interactions with unfavorable analysts during earnings calls as described and used in [Flake (2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-679X.12629)
 
-<a href="https://forms.gle/Ccq6KwyRKUwKLwue6" target="_blank">Download Data</a>
+&nbsp;
+: <a href="https://forms.gle/Ccq6KwyRKUwKLwue6" target="_blank">Download Data</a>
 
 ### *Capital IQ Transcripts - IBES Analyst Linking Table*
 
 This is an effort to link analysts and brokerages from I/B/E/S and Capital IQ transcripts (with [Mark Piorkowski](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MPIORKOW))
 
 <a href="https://github.com/j4ffle/CapIQ_IBES_Match" target="_blank">View on GitHub</a>
--->
 <!-- [Download]() -->
 
 ### References
