@@ -4,9 +4,9 @@ title: "Code & Data"
 permalink: /code_data/
 author_profile: true
 ---
-### Data on managers' interactions with unfavorable analysts during earnings calls as described and used in [Flake (2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-679X.12629)*
+### Data on managers' interactions with unfavorable analysts during earnings calls as described and used in [Flake (2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-679X.12629)
 
-        <a href="https://forms.gle/Ccq6KwyRKUwKLwue6" target="_blank">Download Data</a>
+<a href="https://forms.gle/Ccq6KwyRKUwKLwue6" target="_blank">Download Data</a>
 
 ### *Capital IQ Transcripts - IBES Analyst Linking Table*
 
