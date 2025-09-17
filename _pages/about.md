@@ -11,7 +11,7 @@ redirect_from:
 
 I am an Assistant Professor of Accounting at Boise State University.
 
-I'm interested in understanding the interactions between company executives and information intermediaries, particularly in the incentives and consequences around managers' disclosure choices and interactions with sell-side analysts and investors. I seek to understand the determinants of firms’ information environments and the efficient allocation of capital.
+I'm interested in understanding the interactions between company executives and information intermediaries, particularly in the incentives and consequences around executives' disclosure choices and interactions with sell-side analysts and investors. I seek to understand the determinants of firms’ information environments and the efficient allocation of capital.
 
 Prior to joining Boise State University, I taught at Northeastern University. I completed my Ph.D. in Accounting at Boston College and my MS and BS in Accounting at Brigham Young University where I also received a minor in economics.
 
