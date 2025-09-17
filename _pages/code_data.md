@@ -14,7 +14,7 @@ author_profile: true
 This is an effort to link analysts and brokerages from I/B/E/S and Capital IQ transcripts (with [Mark Piorkowski](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MPIORKOW))
 
 &nbsp;
-: <a href="https://github.com/j4ffle/CapIQ_IBES_Match" target="_blank">View on GitHub</a>
+: <a href="https://github.com/j4ffle/CapIQ_IBES_Match" target="_blank">View Code on GitHub</a>
 <!-- [Download]() -->
 
 ### References
