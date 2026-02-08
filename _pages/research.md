@@ -27,7 +27,7 @@ Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978
 
 ### *"The Credibility of Non-Disclosure: Evidence from Real-time Market Response to Non-Answers in Conference Calls"* with Yang Cao and Miao Liu
 
-*Revise and Resubmit* at the *The Accounting Review*
+Under 2nd round review at the *The Accounting Review*
 
 Managers sometimes provide non-disclosure to investors despite their best intentions, either due to a lack of information or substantial proprietary costs. However, it is difficult for investors to distinguish these managers from those hiding negative news. This paper investigates whether managers can establish a transparent disclosure reputation to credibly communicate the absence of information, using non-answers during earnings calls as a setting. By matching granular, timestamped earnings call conversations with high-frequency trading data, we create a novel dataset that examines immediate real-time market reactions to non-answers given by managers. Additionally, we leverage large language models (LLMs) to develop a database of measures that identify strategies managers can use to build a transparent disclosure reputation. Our findings suggest that these strategies enhance managerial credibility when communicating a lack of information, underscoring the critical role of a transparent disclosure reputation in maintaining investor trust.
 
@@ -39,31 +39,36 @@ Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955634
 
 ### *"The Whisper Before the Shout: Market Consequences of Implied versus Actual Recommendations Revisions"* with Mark Bradshaw, Chad Hamm, and Mark Piorkowski
 
-*Revise and Resubmit* at the *The Accounting Review*
+Preparing for 2nd round resubmission at the *The Accounting Review*
 
 Over 90% of analysts' research reports include reiterated buy/sell recommendations, but academic research focuses on the infrequent recommendation revisions. We predict that analysts signal a change in sentiment without actually revising their outstanding recommendation. We identify these "implied recommendation revisions" and confirm they predict subsequent actual recommendation revisions. Implied upgrades (downgrades) are positively (negatively) associated with returns at the report date, and price reactions to actual recommendation revisions are attenuated when preempted by an implied recommendation revision. Trading around implied recommendation revisions is concentrated among sophisticated investors who have greater access to analysts and their reports, whereas retail investors tend to trade around actual recommendation revisions. Overall, our evidence provides insight into how sophisticated investors use information in analysts' reiteration reports and anticipate changes in analysts' recommendations before those revisions take place.
 
-Presented at The Ohio State University*, the University of South Florida*, Rice University*, Emory University*, Deakin University*, Chinese University of Hong Kong*, 2022 3rd Analyst Research Conference*, 2022 FARS Midyear Meeting*, and the 2021 BYU Accounting Research Symposium.
+Presented at 2025 CFEA, The Ohio State University*, the University of South Florida*, Rice University*, Emory University*, Deakin University*, Chinese University of Hong Kong*, 2022 3rd Analyst Research Conference*, 2022 FARS Midyear Meeting*, and the 2021 BYU Accounting Research Symposium.
 
 * Represents presentations by a coauthor
 
 Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5166926)
 
-### *"The Effect of Analyst Research on Managers’ Merger and Acquisition Decisions: Revising Shareholder Opinions"* with Farzana Afrin and Jalal Sani
+### *"Analysts’ Use of Data Visualization and the Quality of Sell-Side Equity Reports"* with Nargess Golshan, Ken Merkly, and Mark Piorkowski
+
+Under review at the *Journal of Accounting Research*
+
+We examine how sell-side analysts’ use of data visualization relates to the quality of their equity research. First, using a large sample of analyst reports, we document substantial variation in visualization use across analysts and institutions. More experienced analysts and those at larger brokerages employ fewer visualizations, while usage is higher when analysts cover firms with more opaque information environments. Second, we find evidence of a significantly positive association between visualization use and earnings forecast accuracy. This relationship holds across multiple empirical approaches, including specifications with rich fixed effects, entropy balancing, and expanded controls, and when using the 2018 collaboration between JPMorgan and Tableau as a plausibly exogenous increase in visualization adoption. The association is stronger when analysts cover firms with greater information complexity and when visualizations are more effectively integrated into the narrative, which suggests visual tools are valuable when cognitive demands are higher. In contrast, the association is weaker for more experienced and busier analysts. Finally, we find that visualization
+use is positively related to the mapping between earnings forecasts and target prices and to the informativeness of target price revisions for stock returns. Taken together, the evidence is consistent with data visualization enhancing analysts’ ability to develop and communicate higher-quality research outputs.
+
+Presented at 2026 FARS*, UTD-SMU Cowtown Accounting Research Conference*, 2025 NWARG, Texas A&M University*,CUHK Accounting Research Conference*, and Indiana University.
+
+### *"Investor Uncertainty, Analyst Research, and Managers’ Acquisition Decisions"* with Farzana Afrin and Jalal Sani
 
 Preparing for submission to the *The Accounting Review*
 
-Completing an acquisition with negative announcement returns can have adverse consequences for managers (e.g., forced turnover). Yet, managers complete 91% of such deals. Prior research interprets these deals as evidence of agency motives. We propose a complementary explanation and examine the role of analyst research. We posit that, because of the costs of acquiring and processing information, shareholders may not possess all relevant information at the deal announcement date and subsequently revise their opinions. These revised opinions affect managers’ perceptions of the costs of deviating from shareholders’ initial opinions and their decision to complete the deal. While the effect of analyst research on the likelihood of deal completion is ex-ante unclear, our results suggest that analyst research, prompts acquirers’ shareholders to revise their opinions upward, increasing the likelihood of deal completion. This effect is stronger when (i) shareholders are less informed, (ii) the deal quality is relatively high, (iii) analysts are more informed, (iv) agency motivation for completing a deal is lower, and (v) analysts are not affiliated with the acquirer. Overall, our findings highlight the role of analyst research in motivating investors to revise their opinions, thereby influencing corporate investment decisions.
+Completing an acquisition with negative announcement returns can impose significant costs on managers (e.g., forced turnover). Yet managers complete an overwhelming majority of such deals. We examine the role of analyst research, using an inverse proxy: analyst distraction induced by shocks to other firms in their coverage portfolios. We find analyst research increases the likelihood of completing deals with negative market reaction. Our mechanism tests show that analyst research reduces investor uncertainty about the deal in the post-announcement period, lowering investors’ expected returns and motivating them to partially reverse their negative reaction, thereby reducing managers’ costs of completing the deal. The effect of analyst research on completion likelihood is stronger when (i) the increase in uncertainty around the deal announcement is greater, (ii) investors are less informed, and (iii) analysts are more informed. Overall, we highlight reducing investor uncertainty as a key channel through which analysts influence corporate investment decisions.
 
 Presented at the 2024 BYU Accounting research Symposium, 5th Analyst Research conference (2024), and Boston College 2022.
 
 Paper available upon request
 
-### *"Seeing is Believing: Data Visualizations and the Quality of Analyst Forecasts"* with Nargess Golshan, Ken Merkly, and Mark Piorkowski
 
-We examine whether the use of data visualization is associated with the quality of forecasts in investment reports. To address this question, we focus on a large sample of sell-side analyst reports. This setting provides detailed data on report content and allows for relatively straightforward measurement of two important aspects of forecast quality: accuracy and credibility. First, we find a positive association between data visualization use and analyst earnings forecast accuracy. This result is stronger when analysts cover firms in which it is likely that cognitive demands are higher and/or the benefits of visual support are amplified (i.e., firms with greater volatility, extreme sales growth, or those that are smaller and younger). Second, we find evidence consistent with visualizations enhancing the perceived credibility of analyst forecasts as the market response to earnings forecast revisions is stronger when the accompanying reports contain more data visualizations. We further find that this result is more pronounced for firms with higher uncertainty (as measured by return and EPS volatility). Taken together, our findings suggest that visualizations are not merely stylistic choices or persuasive devices; rather they are integral to the decision-making and communication process.
-
-Presented at Indiana University.
 
 <!-- [View in Browser](https://drive.google.com/file/d/1FP1Nj2xefm-u8ycFux1_6bbDXm2ay3Du/view?usp=sharing) -->
 
