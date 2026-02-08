@@ -58,6 +58,8 @@ use is positively related to the mapping between earnings forecasts and target p
 
 Presented at 2026 FARS*, UTD-SMU Cowtown Accounting Research Conference*, 2025 NWARG, Texas A&M University*,CUHK Accounting Research Conference*, and Indiana University.
 
+Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6161106)
+
 ### *"Investor Uncertainty, Analyst Research, and Managers’ Acquisition Decisions"* with Farzana Afrin and Jalal Sani
 
 Preparing for submission to the *The Accounting Review*
