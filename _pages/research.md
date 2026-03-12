@@ -27,7 +27,7 @@ Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978
 
 ### *"The Credibility of Non-Disclosure: Evidence from Real-time Market Response to Non-Answers in Conference Calls"* with Yang Cao and Miao Liu
 
-Under 2nd round review at the *The Accounting Review*
+Preparing for 3rd round review at the *The Accounting Review*
 
 Managers sometimes provide non-disclosure to investors despite their best intentions, either due to a lack of information or substantial proprietary costs. However, it is difficult for investors to distinguish these managers from those hiding negative news. This paper investigates whether managers can establish a transparent disclosure reputation to credibly communicate the absence of information, using non-answers during earnings calls as a setting. By matching granular, timestamped earnings call conversations with high-frequency trading data, we create a novel dataset that examines immediate real-time market reactions to non-answers given by managers. Additionally, we leverage large language models (LLMs) to develop a database of measures that identify strategies managers can use to build a transparent disclosure reputation. Our findings suggest that these strategies enhance managerial credibility when communicating a lack of information, underscoring the critical role of a transparent disclosure reputation in maintaining investor trust.
 
@@ -37,7 +37,7 @@ Presented at 2024 AAA Annual Meeting* and 2024 FARS Midyear Meeting
 
 Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955634)
 
-### *"The Whisper Before the Shout: Market Consequences of Implied versus Actual Recommendations Revisions"* with Mark Bradshaw, Chad Hamm, and Mark Piorkowski
+### *"The Whisper Before the Shout: Market Consequences of Implied versus Actual Recommendations Revisions"* with Mark Bradshaw, Charles Ham, and Mark Piorkowski
 
 Preparing for 2nd round resubmission at the *The Accounting Review*
 
@@ -49,20 +49,9 @@ Presented at 2025 CFEA, The Ohio State University*, the University of South Flor
 
 Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5166926)
 
-### *"Analysts’ Use of Data Visualization and the Quality of Sell-Side Equity Reports"* with Nargess Golshan, Ken Merkly, and Mark Piorkowski
-
-Under review at the *Journal of Accounting Research*
-
-We examine how sell-side analysts’ use of data visualization relates to the quality of their equity research. First, using a large sample of analyst reports, we document substantial variation in visualization use across analysts and institutions. More experienced analysts and those at larger brokerages employ fewer visualizations, while usage is higher when analysts cover firms with more opaque information environments. Second, we find evidence of a significantly positive association between visualization use and earnings forecast accuracy. This relationship holds across multiple empirical approaches, including specifications with rich fixed effects, entropy balancing, and expanded controls, and when using the 2018 collaboration between JPMorgan and Tableau as a plausibly exogenous increase in visualization adoption. The association is stronger when analysts cover firms with greater information complexity and when visualizations are more effectively integrated into the narrative, which suggests visual tools are valuable when cognitive demands are higher. In contrast, the association is weaker for more experienced and busier analysts. Finally, we find that visualization
-use is positively related to the mapping between earnings forecasts and target prices and to the informativeness of target price revisions for stock returns. Taken together, the evidence is consistent with data visualization enhancing analysts’ ability to develop and communicate higher-quality research outputs.
-
-Presented at 2026 FARS*, UTD-SMU Cowtown Accounting Research Conference*, 2025 NWARG, Texas A&M University*,CUHK Accounting Research Conference*, and Indiana University.
-
-Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6161106)
-
 ### *"Investor Uncertainty, Analyst Research, and Managers’ Acquisition Decisions"* with Farzana Afrin and Jalal Sani
 
-Preparing for submission to the *The Accounting Review*
+Under Review at *The Accounting Review*
 
 Completing an acquisition with negative announcement returns can impose significant costs on managers (e.g., forced turnover). Yet managers complete an overwhelming majority of such deals. We examine the role of analyst research, using an inverse proxy: analyst distraction induced by shocks to other firms in their coverage portfolios. We find analyst research increases the likelihood of completing deals with negative market reaction. Our mechanism tests show that analyst research reduces investor uncertainty about the deal in the post-announcement period, lowering investors’ expected returns and motivating them to partially reverse their negative reaction, thereby reducing managers’ costs of completing the deal. The effect of analyst research on completion likelihood is stronger when (i) the increase in uncertainty around the deal announcement is greater, (ii) investors are less informed, and (iii) analysts are more informed. Overall, we highlight reducing investor uncertainty as a key channel through which analysts influence corporate investment decisions.
 
@@ -70,6 +59,15 @@ Presented at the 2024 BYU Accounting research Symposium, 5th Analyst Research co
 
 Paper available upon request
 
+
+### *"Analysts’ Use of Data Visualization and the Quality of Sell-Side Equity Reports"* with Nargess Golshan, Ken Merkly, and Mark Piorkowski
+
+We examine how sell-side analysts’ use of data visualization relates to the quality of their equity research. First, using a large sample of analyst reports, we document substantial variation in visualization use across analysts and institutions. More experienced analysts and those at larger brokerages employ fewer visualizations, while usage is higher when analysts cover firms with more opaque information environments. Second, we find evidence of a significantly positive association between visualization use and earnings forecast accuracy. This relationship holds across multiple empirical approaches, including specifications with rich fixed effects, entropy balancing, and expanded controls, and when using the 2018 collaboration between JPMorgan and Tableau as a plausibly exogenous increase in visualization adoption. The association is stronger when analysts cover firms with greater information complexity and when visualizations are more effectively integrated into the narrative, which suggests visual tools are valuable when cognitive demands are higher. In contrast, the association is weaker for more experienced and busier analysts. Finally, we find that visualization
+use is positively related to the mapping between earnings forecasts and target prices and to the informativeness of target price revisions for stock returns. Taken together, the evidence is consistent with data visualization enhancing analysts’ ability to develop and communicate higher-quality research outputs.
+
+Presented at 2026 FARS*, UTD-SMU Cowtown Accounting Research Conference*, 2025 NWARG, Texas A&M University*,CUHK Accounting Research Conference*, and Indiana University.
+
+Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6161106)
 
 
 <!-- [View in Browser](https://drive.google.com/file/d/1FP1Nj2xefm-u8ycFux1_6bbDXm2ay3Du/view?usp=sharing) -->
