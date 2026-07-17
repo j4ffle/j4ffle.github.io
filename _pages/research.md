@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+## Published
+
 ### *"To Interact or Not? On the Benefits of Interacting with Unfavorable Analysts during Earnings Calls"*
 
 *Journal of Accounting Research*
@@ -25,6 +27,8 @@ Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272978
 -->
 <!-- [Download]() -->
 
+## Working Papers
+
 ### *"The Credibility of Non-Disclosure: Evidence from Real-time Market Response to Non-Answers in Conference Calls"* with Yang Cao and Miao Liu
 
 Preparing for 3rd round review at the *The Accounting Review*
@@ -39,7 +43,7 @@ Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955634
 
 ### *"The Whisper Before the Shout: Market Consequences of Implied versus Actual Recommendations Revisions"* with Mark Bradshaw, Charles Ham, and Mark Piorkowski
 
-Preparing for 2nd round resubmission at the *The Accounting Review*
+Under 2nd round review at the *The Accounting Review*
 
 Over 90% of analysts' research reports include reiterated buy/sell recommendations, but academic research focuses on the infrequent recommendation revisions. We predict that analysts signal a change in sentiment without actually revising their outstanding recommendation. We identify these "implied recommendation revisions" and confirm they predict subsequent actual recommendation revisions. Implied upgrades (downgrades) are positively (negatively) associated with returns at the report date, and price reactions to actual recommendation revisions are attenuated when preempted by an implied recommendation revision. Trading around implied recommendation revisions is concentrated among sophisticated investors who have greater access to analysts and their reports, whereas retail investors tend to trade around actual recommendation revisions. Overall, our evidence provides insight into how sophisticated investors use information in analysts' reiteration reports and anticipate changes in analysts' recommendations before those revisions take place.
 
@@ -62,6 +66,8 @@ Paper available upon request
 
 ### *"Analysts’ Use of Data Visualization and the Quality of Sell-Side Equity Reports"* with Nargess Golshan, Ken Merkly, and Mark Piorkowski
 
+Under review at *Review of Accounting Studies*
+
 We examine how sell-side analysts’ use of data visualization relates to the quality of their equity research. First, using a large sample of analyst reports, we document substantial variation in visualization use across analysts and institutions. More experienced analysts and those at larger brokerages employ fewer visualizations, while usage is higher when analysts cover firms with more opaque information environments. Second, we find evidence of a significantly positive association between visualization use and earnings forecast accuracy. This relationship holds across multiple empirical approaches, including specifications with rich fixed effects, entropy balancing, and expanded controls, and when using the 2018 collaboration between JPMorgan and Tableau as a plausibly exogenous increase in visualization adoption. The association is stronger when analysts cover firms with greater information complexity and when visualizations are more effectively integrated into the narrative, which suggests visual tools are valuable when cognitive demands are higher. In contrast, the association is weaker for more experienced and busier analysts. Finally, we find that visualization
 use is positively related to the mapping between earnings forecasts and target prices and to the informativeness of target price revisions for stock returns. Taken together, the evidence is consistent with data visualization enhancing analysts’ ability to develop and communicate higher-quality research outputs.
 
@@ -69,6 +75,10 @@ Presented at 2026 FARS*, UTD-SMU Cowtown Accounting Research Conference*, 2025 N
 
 Available at: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6161106)
 
+### *"Better Together: Information Processing when Firms File their 10-K with their Earnings Announcement"* with Jesse Glaze and Benjamin Whipple
+
+We examine how sell-side analysts’ use of data visualization relates to the quality of their equity research. First, using a large sample of analyst reports, we document substantial variation in visualization use across analysts and institutions. More experienced analysts and those at larger brokerages employ fewer visualizations, while usage is higher when analysts cover firms with more opaque information environments. Second, we find evidence of a significantly positive association between visualization use and earnings forecast accuracy. This relationship holds across multiple empirical approaches, including specifications with rich fixed effects, entropy balancing, and expanded controls, and when using the 2018 collaboration between JPMorgan and Tableau as a plausibly exogenous increase in visualization adoption. The association is stronger when analysts cover firms with greater information complexity and when visualizations are more effectively integrated into the narrative, which suggests visual tools are valuable when cognitive demands are higher. In contrast, the association is weaker for more experienced and busier analysts. Finally, we find that visualization
+use is positively related to the mapping between earnings forecasts and target prices and to the informativeness of target price revisions for stock returns. Taken together, the evidence is consistent with data visualization enhancing analysts’ ability to develop and communicate higher-quality research outputs.
 
 <!-- [View in Browser](https://drive.google.com/file/d/1FP1Nj2xefm-u8ycFux1_6bbDXm2ay3Du/view?usp=sharing) -->
 

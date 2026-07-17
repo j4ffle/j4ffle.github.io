@@ -7,7 +7,9 @@ author_profile: true
 
 ### Assistant Professor (Boise State University)
 
-Managerial Accounting (ACCT 206) - 2 Sections Fall 2024, 1 Section Spring 2024
+Accounting for Managers (MBA 501) - Fall 2025, Fall 2026
+
+Managerial Accounting (ACCT 206) - Fall 2024, Spring 2025, Spring 2026, Summer 2026
 
 ### Visiting Assistant Professor (Northeastern University)
 
